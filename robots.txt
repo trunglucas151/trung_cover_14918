@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://github.com/trunglucas151/trung_cover_14918/new/trung/14918/sitemap.xml
